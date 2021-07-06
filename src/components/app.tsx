@@ -5,7 +5,7 @@ import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import { Details } from './details';
-import { SearchTvShowByWord }from './searchTvShowByWord';
+import { SearchTvShowByWord } from './searchTvShowByWord';
 import { TVShow, getEpisodesByTitle } from '../server/api';
 import { makeStyles } from '@material-ui/core/styles';
 import FilmImage from '../assets/film.jpg';
